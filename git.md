@@ -24,5 +24,11 @@ git commit -m "message information"
 git push
 ```
 
+# 拉取文件
+
+```bash
+git pull
+```
+
 
 
